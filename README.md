@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Alberto Peña Hastier
 
-<!--
-**juanhastier/juanhastier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador frontend autodidacta. Construyo aplicaciones web funcionales y accesibles.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** HTML5, CSS3, JavaScript (Vanilla), Vue, React (aprendiendo)
+**Herramientas:** Git, GitHub, VS Code, Netlify
+
+## 🚀 Proyecto destacado
+
+### Task Flow
+Gestor de tareas completo con vanilla JavaScript.  
+**Características:** CRUD completo, filtros en tiempo real, persistencia con localStorage, diseño responsive.
+
+🔗 [Demo en vivo](https://task-flow-juan.netlify.app) | 📂 [Código fuente](https://github.com/juanhastier/task-flow)
+
+## 📫 Cómo contactarme
+
+[LinkedIn]([link](https://www.linkedin.com/in/juan-alberto-pe%C3%B1a-hastier-839a401b8/)) · [Portafolio](link) · Correo: juan.hastier@gmail.com
