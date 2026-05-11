@@ -17,4 +17,4 @@ Gestor de tareas completo con vanilla JavaScript.
 
 ## 📫 Cómo contactarme
 
-[LinkedIn](https://www.linkedin.com/in/juan-alberto-pe%C3%B1a-hastier-839a401b8) · [Portafolio](link) · Correo: juan.hastier@gmail.com
+[LinkedIn](https://www.linkedin.com/in/juan-alberto-pe%C3%B1a-hastier-839a401b8) · Correo: juan.hastier@gmail.com
