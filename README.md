@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Alberto Peña Hastier
+# 👋 Hola, soy Juan Hastier
 
 Desarrollador frontend autodidacta. Construyo aplicaciones web funcionales y accesibles.
 
